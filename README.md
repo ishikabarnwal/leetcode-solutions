@@ -30,6 +30,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
