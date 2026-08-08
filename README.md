@@ -34,6 +34,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
