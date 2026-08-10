@@ -32,6 +32,7 @@ Happy Coding! 🚀
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ishika14122004/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ishika14122004/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ishika14122004/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -72,4 +74,16 @@ Happy Coding! 🚀
 | ------- |
 | [0217-contains-duplicate](https://github.com/ishika14122004/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ishika14122004/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ishika14122004/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ishika14122004/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
