@@ -43,6 +43,7 @@ Happy Coding! 🚀
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/ishika14122004/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ishika14122004/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -73,6 +74,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ishika14122004/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ishika14122004/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -86,4 +88,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ishika14122004/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ishika14122004/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
