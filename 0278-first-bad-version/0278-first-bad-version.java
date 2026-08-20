@@ -11,7 +11,7 @@ public class Solution extends VersionControl {
 
             if (isBadVersion(mid)==true) {
                 right = mid-1;
-            } else if (isBadVersion(mid)==false) {
+            } else {
                 left = mid + 1;
             }
         }
