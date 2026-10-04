@@ -4,26 +4,21 @@ class Solution {
         int maxOpen = 0;
 
         for (char c : s.toCharArray()) {
-
             if (c == '(') {
                 minOpen++;
                 maxOpen++;
-            } 
-            else if (c == ')') {
+            } else if (c == ')') {
                 minOpen--;
                 maxOpen--;
-            } 
-            else { // '*'
-                minOpen--;  // '*' can be ')'
-                maxOpen++;  // '*' can be '('
+            } else {
+                minOpen--;
+                maxOpen++;
             }
 
-            // Too many ')' even in the most optimistic case
             if (maxOpen < 0) {
                 return false;
             }
 
-            // minOpen cannot be negative
             minOpen = Math.max(minOpen, 0);
         }
 
