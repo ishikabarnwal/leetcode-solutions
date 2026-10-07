@@ -19,7 +19,7 @@ class Solution {
         dfs(root);
         return maxPath;
     }
-    private int dfs(TreeNode node){
+    public int dfs(TreeNode node){
         if(node==null){
             return 0;
         }
