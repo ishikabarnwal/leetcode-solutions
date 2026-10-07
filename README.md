@@ -115,6 +115,7 @@ Happy Coding! 🚀
 | [0091-decode-ways](https://github.com/ishika14122004/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/ishika14122004/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ishika14122004/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/ishika14122004/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ishika14122004/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ishika14122004/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishika14122004/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -242,6 +243,7 @@ Happy Coding! 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/ishika14122004/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/ishika14122004/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Hash Function
 |  |
 | ------- |
@@ -255,6 +257,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ishika14122004/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ishika14122004/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
