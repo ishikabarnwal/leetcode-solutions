@@ -84,6 +84,7 @@ Happy Coding! 🚀
 | [0032-longest-valid-parentheses](https://github.com/ishika14122004/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ishika14122004/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/ishika14122004/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ishika14122004/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ishika14122004/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -206,6 +207,7 @@ Happy Coding! 🚀
 | [0100-same-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ishika14122004/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ishika14122004/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishika14122004/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishika14122004/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -218,6 +220,7 @@ Happy Coding! 🚀
 | [0098-validate-binary-search-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ishika14122004/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishika14122004/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishika14122004/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -231,6 +234,7 @@ Happy Coding! 🚀
 | [0100-same-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ishika14122004/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ishika14122004/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishika14122004/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishika14122004/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -263,4 +267,8 @@ Happy Coding! 🚀
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ishika14122004/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishika14122004/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ishika14122004/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
