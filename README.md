@@ -27,6 +27,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ishika14122004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ishika14122004/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Happy Coding! 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ishika14122004/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ishika14122004/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/ishika14122004/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishika14122004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ishika14122004/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +179,7 @@ Happy Coding! 🚀
 | [0023-merge-k-sorted-lists](https://github.com/ishika14122004/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ishika14122004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ishika14122004/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -274,6 +278,7 @@ Happy Coding! 🚀
 | [0678-valid-parenthesis-string](https://github.com/ishika14122004/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishika14122004/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ishika14122004/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ishika14122004/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## DP on Trees
 |  |
 | ------- |
