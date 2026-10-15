@@ -29,6 +29,7 @@ Happy Coding! 🚀
 | [0347-top-k-frequent-elements](https://github.com/ishika14122004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ishika14122004/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ishika14122004/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishika14122004/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ishika14122004/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/ishika14122004/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishika14122004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishika14122004/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Matrix
 |  |
 | ------- |
@@ -293,4 +295,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ishika14122004/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishika14122004/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishika14122004/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
