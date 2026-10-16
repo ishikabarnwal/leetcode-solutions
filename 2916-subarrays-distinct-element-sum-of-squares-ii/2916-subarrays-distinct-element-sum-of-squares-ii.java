@@ -1,25 +1,48 @@
+import java.util.*;
+
 class Solution {
+    public int sumCounts(List<Integer> nums) {
+        int n = nums.size();
+        int[] arr = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            arr[i] = nums.get(i);
+        }
+
+        return sumCountsArray(arr);
+    }
+
     public int sumCounts(int[] nums) {
+        return sumCountsArray(nums);
+    }
+
+    private int sumCountsArray(int[] nums) {
         final long MOD = 1_000_000_007;
         int n = nums.length;
-        long[] cnt = new long[n + 1], tot = new long[n + 1];  // Fenwick trees over previous-copy positions, stored right to left
+        long[] cnt = new long[n + 1], tot = new long[n + 1];
         Map<Integer, Integer> last = new HashMap<>();
         long ans = 0;
+
         for (int r = 0; r < n; r++) {
             int p = last.getOrDefault(nums[r], -1);
             long c = 0, s = 0;
-            for (int i = n - p - 1; i > 0; i -= i & -i) {  // boxes 1..n-p-1 hold the positions > p
+
+            for (int i = n - p - 1; i > 0; i -= i & -i) {
                 c += cnt[i];
                 s += tot[i];
             }
-            long gain = (long) (r - p) * (r - p) - 2 * (s - p * c);  // at most 1e10
+
+            long gain = (long) (r - p) * (r - p) - 2 * (s - (long) p * c);
             ans = (ans + (n - r) * gain) % MOD;
-            for (int i = n - p; i <= n; i += i & -i) {  // insert p; p = -1 lands past the end and is skipped
+
+            for (int i = n - p; i <= n; i += i & -i) {
                 cnt[i]++;
                 tot[i] += p;
             }
+
             last.put(nums[r], r);
         }
+
         return (int) ans;
     }
 }
