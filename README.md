@@ -53,6 +53,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ishika14122004/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ishika14122004/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -211,6 +212,7 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ishika14122004/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/ishika14122004/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Merge Sort
 |  |
@@ -310,4 +312,8 @@ Happy Coding! 🚀
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishika14122004/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ishika14122004/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ishika14122004/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
