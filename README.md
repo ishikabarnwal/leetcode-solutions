@@ -62,6 +62,7 @@ Happy Coding! 🚀
 | [0066-plus-one](https://github.com/ishika14122004/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ishika14122004/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ishika14122004/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ishika14122004/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -110,6 +111,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/ishika14122004/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ishika14122004/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ishika14122004/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ishika14122004/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ishika14122004/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishika14122004/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ishika14122004/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -343,6 +345,7 @@ Happy Coding! 🚀
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ishika14122004/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
