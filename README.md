@@ -61,6 +61,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/ishika14122004/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ishika14122004/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ishika14122004/leetcode-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ishika14122004/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -80,6 +81,7 @@ Happy Coding! 🚀
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/ishika14122004/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ishika14122004/leetcode-solutions/tree/master/0278-first-bad-version) |
@@ -354,4 +356,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ishika14122004/leetcode-solutions/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ishika14122004/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
