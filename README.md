@@ -32,6 +32,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ishika14122004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ishika14122004/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ishika14122004/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishika14122004/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -89,6 +90,7 @@ Happy Coding! 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ishika14122004/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ishika14122004/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
@@ -105,6 +107,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/ishika14122004/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ishika14122004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ishika14122004/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ishika14122004/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ishika14122004/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
