@@ -71,6 +71,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/ishika14122004/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ishika14122004/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ishika14122004/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/ishika14122004/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -168,6 +169,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/ishika14122004/leetcode-solutions/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/ishika14122004/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/ishika14122004/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/ishika14122004/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/ishika14122004/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/ishika14122004/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ishika14122004/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
