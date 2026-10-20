@@ -106,6 +106,7 @@ Happy Coding! 🚀
 | ------- |
 | [0067-add-binary](https://github.com/ishika14122004/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/ishika14122004/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -224,6 +225,7 @@ Happy Coding! 🚀
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ishika14122004/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/ishika14122004/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ishika14122004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
