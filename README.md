@@ -51,6 +51,7 @@ Happy Coding! 🚀
 | [0049-group-anagrams](https://github.com/ishika14122004/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishika14122004/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ishika14122004/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishika14122004/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@ Happy Coding! 🚀
 | [0168-excel-sheet-column-title](https://github.com/ishika14122004/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ishika14122004/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -89,6 +91,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/ishika14122004/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishika14122004/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -420,4 +423,8 @@ Happy Coding! 🚀
 | [0182-duplicate-emails](https://github.com/ishika14122004/leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/ishika14122004/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/ishika14122004/leetcode-solutions/tree/master/0197-rising-temperature) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
