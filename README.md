@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [0171-excel-sheet-column-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ishika14122004/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ishika14122004/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -115,6 +116,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ishika14122004/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ishika14122004/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ishika14122004/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -396,6 +398,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishika14122004/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/ishika14122004/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Union-Find
 |  |
 | ------- |
