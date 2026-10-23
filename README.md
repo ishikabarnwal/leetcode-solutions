@@ -84,6 +84,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ishika14122004/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ishika14122004/leetcode-solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ishika14122004/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
