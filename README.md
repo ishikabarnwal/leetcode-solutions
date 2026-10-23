@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [0258-add-digits](https://github.com/ishika14122004/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/ishika14122004/leetcode-solutions/tree/master/0292-nim-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ishika14122004/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/ishika14122004/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -453,4 +454,24 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ishika14122004/leetcode-solutions/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ishika14122004/leetcode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ishika14122004/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ishika14122004/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ishika14122004/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ishika14122004/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
