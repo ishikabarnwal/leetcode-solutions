@@ -36,6 +36,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ishika14122004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1254-number-of-closed-islands](https://github.com/ishika14122004/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ishika14122004/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -70,6 +71,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [1254-number-of-closed-islands](https://github.com/ishika14122004/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Math
 |  |
 | ------- |
@@ -332,6 +334,7 @@ Happy Coding! 🚀
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/ishika14122004/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [1254-number-of-closed-islands](https://github.com/ishika14122004/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -364,6 +367,7 @@ Happy Coding! 🚀
 | [0112-path-sum](https://github.com/ishika14122004/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ishika14122004/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/ishika14122004/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Hash Function
 |  |
 | ------- |
@@ -417,6 +421,7 @@ Happy Coding! 🚀
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ishika14122004/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
