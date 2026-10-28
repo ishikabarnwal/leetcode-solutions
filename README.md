@@ -47,6 +47,7 @@ Happy Coding! 🚀
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishika14122004/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ishika14122004/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ishika14122004/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ishika14122004/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ishika14122004/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ishika14122004/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -74,6 +75,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/ishika14122004/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/ishika14122004/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishika14122004/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ishika14122004/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Happy Coding! 🚀
 | [0231-power-of-two](https://github.com/ishika14122004/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ishika14122004/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ishika14122004/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +162,7 @@ Happy Coding! 🚀
 | [0124-binary-tree-maximum-path-sum](https://github.com/ishika14122004/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ishika14122004/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ishika14122004/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
