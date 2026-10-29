@@ -47,6 +47,7 @@ Happy Coding! 🚀
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishika14122004/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ishika14122004/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ishika14122004/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ishika14122004/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ishika14122004/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ishika14122004/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -132,6 +133,7 @@ Happy Coding! 🚀
 | [0231-power-of-two](https://github.com/ishika14122004/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ishika14122004/leetcode-solutions/tree/master/0268-missing-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ishika14122004/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ishika14122004/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
@@ -210,6 +212,7 @@ Happy Coding! 🚀
 | [1021-remove-outermost-parentheses](https://github.com/ishika14122004/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ishika14122004/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/ishika14122004/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ishika14122004/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
@@ -262,6 +265,7 @@ Happy Coding! 🚀
 | [0215-kth-largest-element-in-an-array](https://github.com/ishika14122004/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ishika14122004/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -322,6 +326,7 @@ Happy Coding! 🚀
 | [0257-binary-tree-paths](https://github.com/ishika14122004/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishika14122004/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -342,6 +347,7 @@ Happy Coding! 🚀
 | [0572-subtree-of-another-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1254-number-of-closed-islands](https://github.com/ishika14122004/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishika14122004/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -416,11 +422,13 @@ Happy Coding! 🚀
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishika14122004/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ishika14122004/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishika14122004/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ishika14122004/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ishika14122004/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Recursion
 |  |
 | ------- |
